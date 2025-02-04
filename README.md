@@ -1,6 +1,6 @@
 ## AUTOMATIZAÇÃO DE EXTRAÇÃO DE DADOS - PROJETO ELSA
 
-![Logotipo ELSA]()http://elsabrasil.org/wp-content/uploads/2024/02/elsa-publicacoes.png
+![Logotipo ELSA](http://elsabrasil.org/wp-content/uploads/2024/02/elsa-publicacoes.png)
 
 O algoritmo construído trata-se de uma forma de acelerar a busca das variáveis pedidas
 por pesquisadores que necessitam de dados para a realização de pesquisas e teses de 
