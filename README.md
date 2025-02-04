@@ -1,6 +1,6 @@
 ## AUTOMATIZAÇÃO DE EXTRAÇÃO DE DADOS - PROJETO ELSA
 
-![Logotipo ELSA](https://www.google.com/imgres?q=projeto%20elsa&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100066820567904&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Felsabrasil%2F&docid=2RwVz03hk_UTxM&tbnid=Yc2uS44D3iSeoM&vet=12ahUKEwjlx4iAzaqLAxVDDLkGHaglGz4QM3oECGgQAA..i&w=1376&h=1376&hcb=2&ved=2ahUKEwjlx4iAzaqLAxVDDLkGHaglGz4QM3oECGgQAA)
+![Logotipo ELSA](https://images.app.goo.gl/wcTBi8Bt359upUkg9)
 
 O algoritmo construído trata-se de uma forma de acelerar a busca das variáveis pedidas
 por pesquisadores que necessitam de dados para a realização de pesquisas e teses de 
